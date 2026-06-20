@@ -113,6 +113,52 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 📈 Data Driven Retail Pricing Optimization
+- Developed a machine learning-based dynamic pricing system to predict optimal product prices.
+- Implemented Linear Regression, Random Forest, XGBoost, and LightGBM models.
+- Performed demand forecasting and revenue optimization using predictive analytics.
+- Tools: Python, Pandas, Scikit-Learn, XGBoost, LightGBM.
+
+### 👥 Customer Churn Prediction System
+- Built a predictive model to identify customers likely to leave a bank.
+- Conducted extensive EDA, feature engineering, and model optimization.
+- Achieved high prediction accuracy using Random Forest and Decision Tree algorithms.
+- Tools: Python, Pandas, Scikit-Learn, Streamlit.
+
+### 🫁 Pneumonia Detection Using Chest X-Ray Images
+- Developed a Deep Learning model for pneumonia detection from medical images.
+- Implemented CNN architecture and leveraged VGG16 transfer learning.
+- Improved classification performance through image preprocessing and augmentation.
+- Tools: TensorFlow, Keras, OpenCV, Streamlit.
+
+### 🏙️ SnapFix – Public Maintenance Reporting System
+- Developed an AI-powered civic issue reporting platform.
+- Features include image-based issue reporting, GPS tagging, real-time status tracking, and role-based dashboards.
+- Integrated AI for issue classification and duplicate detection.
+- Tools: React, Node.js, MongoDB, Supabase, Socket.io.
+
+---
+
+## 🏅 Certifications
+
+✅ Generative AI for Education – Google
+
+✅ Data Science Certification – Academor
+
+✅ Java Full Stack Development – Code For Success
+
+✅ AI Fundamentals – IBM SkillsBuild
+
+✅ Problem Solving & Process Controls – IBM SkillsBuild
+
+✅ Communication & Personality Dynamics – IBM SkillsBuild
+
+✅ Machine Learning (Coursera)
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -160,9 +206,9 @@
 
 <p align="center">
 
-<!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/samiullahsyedhussain">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
+</a>
 
 <a href="https://github.com/funistic25">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
