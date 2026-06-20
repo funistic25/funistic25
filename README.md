@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sriniketh
+# 👋 Hi, I'm Sami
 
 <div align="center">
 
-# 🚀 Software Developer | AI Enthusiast | Problem Solver
+# 🚀 Data Science Student | AI & ML Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+(Data+Science)+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 
@@ -14,9 +14,7 @@
 
 <!-- 🎓 B.Tech in Computer Science & Engineering (Data Science) -->
 
-💻 Passionate about Full Stack Development, Backend Engineering, and AI
-
-<!-- 🧠 Solved 350+ LeetCode problems -->
+💻  Passionate about Data Science, Machine Learning, AI, and Analytics
 
 🚀 Built multiple end-to-end projects using modern technologies
 
@@ -30,9 +28,9 @@
 
 <div align="center">
 
-| Projects | Internship | LeetCode | 
+| Projects | Internship | Certificates | 
 |----------|------------|----------|
-| 6+ | 1 | 350+ |
+| 6+ | 2 | 10+ |
 
 </div>
 
@@ -43,18 +41,16 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤖 AI / ML
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF5722?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-009688?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🧠 Generative AI
@@ -65,17 +61,23 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Vector_DBs](https://img.shields.io/badge/Vector_Databases-00ACC1?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Frontend
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge)
 
-### Backend
+### Data Analysis
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Database & Cloud
 
@@ -86,7 +88,6 @@
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -96,7 +97,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
@@ -105,9 +105,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriniketh-J7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=funistic25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriniketh-J7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funistic25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sriniketh-J7&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=funistic25&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -127,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sriniketh-J7&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=funistic25&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriniketh-J7&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=funistic25&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -164,7 +164,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> -->
 
-<a href="https://github.com/Sriniketh-J7">
+<a href="https://github.com/funistic25">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -180,6 +180,6 @@
 
 ### 💡 "Building solutions, learning continuously, and growing one commit at a time."
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=funistic25E&style=for-the-badge)
 
 </div>
