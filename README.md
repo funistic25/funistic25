@@ -59,6 +59,7 @@
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Vector_DBs](https://img.shields.io/badge/Vector_Databases-00ACC1?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
