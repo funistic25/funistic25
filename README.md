@@ -4,7 +4,7 @@
 
 # 🚀 Data Science Student | AI & ML Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+(Data+Science)+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+AI+and+ML+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+to+AI+and+ML+Engineering+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -19,8 +19,6 @@
 🚀 Built multiple end-to-end projects using modern technologies
 
 🌍 Open to Full-Time, Remote, and Relocation Opportunities
-
-📍 Hyderabad, India
 
 ---
 
@@ -117,46 +115,20 @@
 ## 🚀 Featured Projects
 
 ### 📈 Data Driven Retail Pricing Optimization
-- Developed a machine learning-based dynamic pricing system to predict optimal product prices.
-- Implemented Linear Regression, Random Forest, XGBoost, and LightGBM models.
-- Performed demand forecasting and revenue optimization using predictive analytics.
-- Tools: Python, Pandas, Scikit-Learn, XGBoost, LightGBM.
+- Built a machine learning system for demand forecasting and dynamic pricing optimization.
+- **Tools:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, SARIMAX
 
 ### 👥 Customer Churn Prediction System
-- Built a predictive model to identify customers likely to leave a bank.
-- Conducted extensive EDA, feature engineering, and model optimization.
-- Achieved high prediction accuracy using Random Forest and Decision Tree algorithms.
-- Tools: Python, Pandas, Scikit-Learn, Streamlit.
+- Developed a customer churn prediction model using banking customer data.
+- **Tools:** Python, Pandas, Scikit-Learn, Random Forest, Streamlit
 
 ### 🫁 Pneumonia Detection Using Chest X-Ray Images
-- Developed a Deep Learning model for pneumonia detection from medical images.
-- Implemented CNN architecture and leveraged VGG16 transfer learning.
-- Improved classification performance through image preprocessing and augmentation.
-- Tools: TensorFlow, Keras, OpenCV, Streamlit.
+- Designed a deep learning solution for automated pneumonia detection from X-ray images.
+- **Tools:** TensorFlow, Keras, CNN, VGG16, OpenCV, Streamlit
 
 ### 🏙️ SnapFix – Public Maintenance Reporting System
-- Developed an AI-powered civic issue reporting platform.
-- Features include image-based issue reporting, GPS tagging, real-time status tracking, and role-based dashboards.
-- Integrated AI for issue classification and duplicate detection.
-- Tools: React, Node.js, MongoDB, Supabase, Socket.io.
-
----
-
-## 🏅 Certifications
-
-✅ Generative AI for Education – Google
-
-✅ Data Science Certification – Academor
-
-✅ Java Full Stack Development – Code For Success
-
-✅ AI Fundamentals – IBM SkillsBuild
-
-✅ Problem Solving & Process Controls – IBM SkillsBuild
-
-✅ Communication & Personality Dynamics – IBM SkillsBuild
-
-✅ Machine Learning (Coursera)
+- Built an AI-enabled platform for reporting and tracking public infrastructure issues.
+- **Tools:** React Native, Node.js, Express.js, MongoDB, Supabase, Socket.io, Gemini AI
 
 ---
 
