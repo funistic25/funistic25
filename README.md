@@ -4,7 +4,7 @@
 
 # 🚀 Data Science Student | AI & ML Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+(Data+Science)+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+(Data+Science)+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+AI+and+ML+Engineering+Opportunities" alt="Typing SVG" />
 
 </div>
 
